@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\infestationbaitmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|solutionrelative:infestationbaitmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|InfestationBait||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|d:\\onedrive\\games\\rimworldmodsources\\infestationbait-1.0\\source\\infestationbait\\patch_tryfindcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|solutionrelative:patch_tryfindcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|d:\\onedrive\\games\\rimworldmodsources\\infestationbait-1.0\\source\\infestationbait\\patch_loadgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|solutionrelative:patch_loadgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|d:\\onedrive\\games\\rimworldmodsources\\infestationbait-1.0\\source\\infestationbait\\patch_initnewgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|solutionrelative:patch_initnewgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\placeworker_infestationbait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|solutionrelative:placeworker_infestationbait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\building_infestationbait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|solutionrelative:building_infestationbait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED9CEC9-6516-4EC5-AE3C-CDC1B6F03A91}|InfestationBait.csproj|d:\\onedrive\\games\\rimworldmodsources\\infestationbait-1.0\\source\\infestationbait\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patch_TryFindCell.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Patch_TryFindCell.cs",
+              "RelativeDocumentMoniker": "Patch_TryFindCell.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Patch_TryFindCell.cs",
+              "RelativeToolTip": "Patch_TryFindCell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:50:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patch_LoadGame.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Patch_LoadGame.cs",
+              "RelativeDocumentMoniker": "Patch_LoadGame.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Patch_LoadGame.cs",
+              "RelativeToolTip": "Patch_LoadGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:49:54.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patch_InitNewGame.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Patch_InitNewGame.cs",
+              "RelativeDocumentMoniker": "Patch_InitNewGame.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Patch_InitNewGame.cs",
+              "RelativeToolTip": "Patch_InitNewGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:49:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfestationBait",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\InfestationBait.csproj",
+              "RelativeDocumentMoniker": "InfestationBait.csproj",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\InfestationBait.csproj",
+              "RelativeToolTip": "InfestationBait.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T02:41:12.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfestationBaitMod.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\InfestationBaitMod.cs",
+              "RelativeDocumentMoniker": "InfestationBaitMod.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\InfestationBaitMod.cs",
+              "RelativeToolTip": "InfestationBaitMod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:38:34.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceWorker_InfestationBait.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\PlaceWorker_InfestationBait.cs",
+              "RelativeDocumentMoniker": "PlaceWorker_InfestationBait.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\PlaceWorker_InfestationBait.cs",
+              "RelativeToolTip": "PlaceWorker_InfestationBait.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBQAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:36:51.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Building_InfestationBait.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Building_InfestationBait.cs",
+              "RelativeDocumentMoniker": "Building_InfestationBait.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\InfestationBait-1.0\\Source\\InfestationBait\\Building_InfestationBait.cs",
+              "RelativeToolTip": "Building_InfestationBait.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:35:06.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

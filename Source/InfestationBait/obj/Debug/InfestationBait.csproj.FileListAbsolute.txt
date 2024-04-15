@@ -1,0 +1,10 @@
+D:\Spiele\SteamApps\common\RimWorld\Mods\InfestationBait\Assemblies\InfestationBait.dll
+D:\Spiele\SteamApps\common\RimWorld\Mods\InfestationBait\Source\InfestationBait\obj\Debug\InfestationBait.csprojResolveAssemblyReference.cache
+D:\Spiele\SteamApps\common\RimWorld\Mods\InfestationBait\Source\InfestationBait\obj\Debug\InfestationBait.dll
+D:\Spiele\SteamApps\common\RimWorld\Mods\InfestationBaitDEV\Assemblies\InfestationBait.dll
+D:\Spiele\SteamApps\common\RimWorld\Mods\InfestationBaitDEV\Source\InfestationBait\obj\Debug\InfestationBait.csprojResolveAssemblyReference.cache
+D:\Spiele\SteamApps\common\RimWorld\Mods\InfestationBaitDEV\Source\InfestationBait\obj\Debug\InfestationBait.dll
+D:\OneDrive\Games\RimworldModSources\InfestationBait-1.0\Source\InfestationBait\obj\Debug\InfestationBait.csproj.AssemblyReference.cache
+D:\OneDrive\Games\RimworldModSources\InfestationBait-1.0\Source\InfestationBait\obj\Debug\InfestationBait.csproj.CoreCompileInputs.cache
+D:\OneDrive\Games\RimworldModSources\InfestationBait-1.0\Assemblies\InfestationBait.dll
+D:\OneDrive\Games\RimworldModSources\InfestationBait-1.0\Source\InfestationBait\obj\Debug\InfestationBait.dll
